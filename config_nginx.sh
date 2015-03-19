@@ -1,0 +1,1 @@
+./configure --prefix=/mnt/share/nginx-1.5.9 --with-http_ssl_module --with-http_dav_module --with-http_flv_module --with-http_realip_module --with-http_gzip_static_module --with-http_stub_status_module --with-mail --with-mail_ssl_module
