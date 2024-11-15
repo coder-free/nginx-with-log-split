@@ -9,6 +9,7 @@
 #include <ngx_core.h>
 
 
+
 static char *ngx_error_log(ngx_conf_t *cf, ngx_command_t *cmd, void *conf);
 static char *ngx_log_set_levels(ngx_conf_t *cf, ngx_log_t *log);
 static void ngx_log_insert(ngx_log_t *log, ngx_log_t *new_log);
